@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on: Front-End Web Development Projects<br><br>👯 I’m looking to collaborate on: Open Source and Web Development Projects<br><br>🤝 I’m looking for help with: Improving JavaScript and Backend Development Skills<br><br>🌱 I’m currently learning: HTML, CSS, JavaScript, Java, Git & GitHub<br><br>💬 Ask me about: Responsive Web Design, HTML, CSS, and JavaScript Basics<br><br>⚡ Fun fact: I enjoy turning ideas into websites and learning new technologies every day.
+ 🔭 I’m currently working on:  Web Development Projects<br><br>👯 I’m looking to collaborate on: Open Source and Web Development Projects<br><br>🤝 I’m looking for help with: Improving JavaScript and Backend Development Skills<br><br>🌱 I’m currently learning: React.js , node.js, tailwind, typescript<br><br>💬 Ask me about: Responsive Web Design, HTML, CSS, and JavaScript Basics<br><br>⚡ Fun fact: I enjoy turning ideas into websites and learning new technologies every day.
 
 
 ## 🌐 Socials:
